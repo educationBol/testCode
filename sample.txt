@@ -6,9 +6,6 @@ Ideally, each test case is independent from the others. Substitutes such as meth
 
 The goal of unit testing is to isolate each part of the program and show that the individual parts are correct.[1] A unit test provides a strict, written contract that the piece of code must satisfy. As a result, it affords several benefits.
 
-[daedalus]$ which git
-/usr/bin/git
-[daedalus]$ git --version
 git version 1.4.4.4
 [daedalus]$ 
 

@@ -11,3 +11,5 @@ The goal of unit testing is to isolate each part of the program and show that th
 [daedalus]$ git --version
 git version 1.4.4.4
 [daedalus]$ 
+
+I know how to add the key to git... is so hard by  I've done it

@@ -8,3 +8,9 @@ The goal of unit testing is to isolate each part of the program and show that th
 
 
 I know how to add the key to git... is so hard by  I've done it
+
+
+
+from here is all about windows 2014 by krlos
+
+it doesn't have to be the same by the way. If your colleague created the git repo and you are logging in as another account, they will not be the same
